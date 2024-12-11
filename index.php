@@ -11,7 +11,7 @@ class Hello {
 
     // Méthode pour afficher un message
     public function sayHello() {
-        return "Hello, " . $this->name . "!";
+        return "Hello, class " . $this->name . "!";
     }
 }
 
